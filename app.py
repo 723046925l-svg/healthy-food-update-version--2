@@ -43,4 +43,5 @@ for meal in meals:
     **دهون:** {meal['fat']}  
     **كاربوهيدرات:** {meal['carbs']}  
     """)
+
     st.markdown("---")
